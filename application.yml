@@ -5,9 +5,6 @@ logging:
         cloud:
           samples: DEBUG
 
-fortune:
-  fallbackFortune: The fog should lift today. Maybe.
-
 eureka:
   instance:
     leaseRenewalIntervalInSeconds: 10
